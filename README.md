@@ -23,4 +23,4 @@ Database: MySQL, PostgreSQL
 
 bash
 Copy code
-git clone https://github.com/yourusername/car-rental-website.git
+git clone (https://github.com/Avv-2301/Car-Rental-Django.git)
